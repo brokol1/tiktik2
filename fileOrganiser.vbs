@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\doc\fileOrganiser.bat", 0 , True
